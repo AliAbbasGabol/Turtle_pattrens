@@ -5,8 +5,15 @@ Fun Python Turtle graphics patterns.
 ## Examples
 | Pattern | Preview |
 |---------|---------|
-| Spiral  | ![](pattren.png) |
+| pattren  | ![](pattren.png) |
+| pattren_2| ![](pattren.png) |
 
 ## How to Run
+### mutliple pattrens like pattren.png:
 ```bash
-python star.py
+python pattren.py
+```
+### For Pattren_2.png
+```bash
+python pattren_2.py
+```
