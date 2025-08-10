@@ -5,7 +5,7 @@ Fun Python Turtle graphics patterns.
 ## Examples
 | Pattern | Preview |
 |---------|---------|
-| Spiral  | ![](screenshots/spiral.png) |
+| Spiral  | ![](pattren.png) |
 
 ## How to Run
 ```bash
