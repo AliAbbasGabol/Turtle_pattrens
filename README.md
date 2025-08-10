@@ -5,8 +5,8 @@ Fun Python Turtle graphics patterns.
 ## Examples
 | Pattern | Preview |
 |---------|---------|
-| pattren  | ![](pattren.png) |
-| pattren_2| ![](pattren.png) |
+| pattren  | ![](pattern.png) |
+| pattren_2| ![](pattern.png) |
 
 ## How to Run
 ### mutliple pattrens like pattren.png:
