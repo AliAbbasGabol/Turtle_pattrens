@@ -2,6 +2,8 @@
 
 Fun Python Turtle graphics patterns.
 
+For Video animation of drawing go to --> [Pattren 1 animation](https://www.youtube.com/watch?v=S_h8Rt5jx-4&ab_channel=Flyingsaucer)
+
 ## Examples
 | Pattern | Preview |
 |---------|---------|
