@@ -12,6 +12,7 @@ s = turtle.Screen()
 t.hideturtle()
 # Setting Background color
 s.bgcolor("white")
+#set screen size
 s.setup(1080,530)
 
 
@@ -37,7 +38,7 @@ for i in range(80):
 time.sleep(2)
 t.clear()
 
-
+#Moving ahead each block is used for diffrent shape such as pentagon, hexagon, heptagon and octagon
 
 t.hideturtle()
 for i in range(80):
@@ -74,7 +75,6 @@ for i in range(160):
   
     t.left(60)
     t.forward(120)
-    turtle.update()
   t.left(73)
   t.forward(60)
 
