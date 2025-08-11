@@ -13,11 +13,11 @@ For Video animation of drawing go to --> [Pattern 1 animation](https://www.youtu
 | pattren_2| ![](pattern_2.png) |
 
 ## How to Run
-### mutliple pattrens like pattren.png:
+### mutliple pattrens like pattern:
 ```bash
 python pattern.py
 ```
-### For Pattren_2.png
+### For Pattern_2
 ```bash
 python pattern_2.py
 ```
