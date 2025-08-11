@@ -9,8 +9,8 @@ For Video animation of drawing go to --> [Pattern 1 animation](https://www.youtu
 ## Examples
 | Pattern | Preview |
 |---------|---------|
-| pattren  | ![](pattern.png) |
-| pattren_2| ![](pattern_2.png) |
+| pattern  | ![](pattern.png) |
+| pattern_2| ![](pattern_2.png) |
 
 ## How to Run
 ### mutliple pattrens like pattern:
