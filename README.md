@@ -2,9 +2,9 @@
 
 Fun Python Turtle graphics patterns.
 
-For Video animation of drawing go to --> [Pattren 1 animation](https://www.youtube.com/watch?v=S_h8Rt5jx-4&ab_channel=Flyingsaucer)
+For Video animation of drawing go to --> [Pattern 1 animation](https://www.youtube.com/watch?v=S_h8Rt5jx-4&ab_channel=Flyingsaucer)
                                     |
-                                    -->[pattren 2 animation](https://www.youtube.com/watch?v=nb-HSHoxTBw&ab_channel=Flyingsaucer)
+                                    -->[pattern 2 animation](https://www.youtube.com/watch?v=nb-HSHoxTBw&ab_channel=Flyingsaucer)
 
 ## Examples
 | Pattern | Preview |
@@ -15,9 +15,9 @@ For Video animation of drawing go to --> [Pattren 1 animation](https://www.youtu
 ## How to Run
 ### mutliple pattrens like pattren.png:
 ```bash
-python pattren.py
+python pattern.py
 ```
 ### For Pattren_2.png
 ```bash
-python pattren_2.py
+python pattern_2.py
 ```
